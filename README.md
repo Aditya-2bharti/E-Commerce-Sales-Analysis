@@ -1,8 +1,8 @@
-Analysis the E-Commerce-Sales data.
-technology use 
--> Python
--> matplotlib
--> Pandas
--> seaborn
--> numpy
--> MongoDB Atlas
+# Analysis the E-Commerce-Sales data.
+# Technology used
+- Python
+- matplotlib
+- Pandas
+- seaborn
+- numpy
+- MongoDB Atlas
